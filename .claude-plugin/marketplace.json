@@ -1,0 +1,11 @@
+{
+  "name": "paper-review",
+  "owner": { "name": "Goetz" },
+  "plugins": [
+    {
+      "name": "paper-review",
+      "source": "./",
+      "description": "Critical, approval-gated review and paraphrasing of academic writing."
+    }
+  ]
+}

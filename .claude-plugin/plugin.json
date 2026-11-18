@@ -1,0 +1,8 @@
+{
+  "name": "paper-review",
+  "version": "1.0.0",
+  "description": "Critical review, proofreading and meaning-preserving paraphrasing of academic writing (papers, exposés, theses, abstracts), with a question-by-question, approval-gated editing workflow.",
+  "author": { "name": "Goetz" },
+  "license": "MIT",
+  "keywords": ["academic-writing", "proofreading", "peer-review", "latex", "paraphrase", "citations"]
+}
